@@ -1,0 +1,154 @@
+2020-03-16 11:26:39,437 ERROR 76928 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+
+pid: 76928
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-16 11:30:42,758 ERROR 76964 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+
+pid: 76964
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-16 11:30:45,011 ERROR 76964 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+
+pid: 76964
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-16 11:30:45,876 ERROR 76964 [-/127.0.0.1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+
+pid: 76964
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-16 11:31:34,886 ERROR 76976 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+
+pid: 76976
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-16 11:33:09,164 ERROR 76985 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/xiangyangling/code/learning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/xiangyangling/code/learning/egg-example/node_modules/koa-compose/index.js:42:32)
+
+pid: 76985
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-16 16:19:08,963 ERROR 79151 [-/127.0.0.1/-/5034ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/xiangyangling/code/learning/egg-example/node_modules/urllib/lib/urllib.js:926:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5026,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 79151
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-17 07:53:01,394 ERROR 79130 nodejs.ClusterClientNoResponseError: client no response in 43259416ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/xiangyangling/code/learning/egg-example/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 79130
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-17 08:00:05,780 ERROR 79130 nodejs.ClusterClientNoResponseError: client no response in 424142ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/xiangyangling/code/learning/egg-example/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 79130
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-17 08:58:45,718 ERROR 79130 nodejs.ClusterClientNoResponseError: client no response in 3519925ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/xiangyangling/code/learning/egg-example/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 79130
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-17 17:42:58,120 ERROR 88073 [-/127.0.0.1/-/5030ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/xiangyangling/code/learning/egg-example/node_modules/urllib/lib/urllib.js:926:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5025,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 88073
+hostname: xiangyangdeMacBook-Pro.local
+
+2020-03-17 18:16:14,824 ERROR 88069 nodejs.ClusterClientNoResponseError: client no response in 1327985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/xiangyangling/code/learning/egg-example/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 88069
+hostname: xiangyangdeMacBook-Pro.local
+

@@ -1,0 +1,66 @@
+2020-03-16 11:26:32,626 INFO 76924 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61407376ms at 2020-03-17 04:30:00.002
+2020-03-16 11:26:32,627 INFO 76924 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 45207374ms at 2020-03-17 00:00:00.001
+2020-03-16 11:26:32,627 INFO 76924 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45208373ms at 2020-03-17 00:00:01.000
+2020-03-16 11:26:32,554 INFO 76928 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 11:26:32,554 INFO 76928 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 11:26:32,554 INFO 76928 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 11:30:35,651 INFO 76963 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61164351ms at 2020-03-17 04:30:00.002
+2020-03-16 11:30:35,652 INFO 76963 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44964349ms at 2020-03-17 00:00:00.001
+2020-03-16 11:30:35,652 INFO 76963 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44965348ms at 2020-03-17 00:00:01.000
+2020-03-16 11:30:35,599 INFO 76964 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 11:30:35,599 INFO 76964 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 11:30:35,599 INFO 76964 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 11:31:31,642 INFO 76975 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61108360ms at 2020-03-17 04:30:00.002
+2020-03-16 11:31:31,642 INFO 76975 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44908358ms at 2020-03-17 00:00:00.000
+2020-03-16 11:31:31,642 INFO 76975 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44909358ms at 2020-03-17 00:00:01.000
+2020-03-16 11:31:31,590 INFO 76976 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 11:31:31,590 INFO 76976 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 11:31:31,590 INFO 76976 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 11:32:50,370 INFO 76984 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61029632ms at 2020-03-17 04:30:00.002
+2020-03-16 11:32:50,370 INFO 76984 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44829630ms at 2020-03-17 00:00:00.000
+2020-03-16 11:32:50,370 INFO 76984 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44830630ms at 2020-03-17 00:00:01.000
+2020-03-16 11:32:50,316 INFO 76985 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 11:32:50,316 INFO 76985 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 11:32:50,316 INFO 76985 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 13:50:01,994 INFO 77235 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 52798007ms at 2020-03-17 04:30:00.001
+2020-03-16 13:50:01,995 INFO 77235 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36598005ms at 2020-03-17 00:00:00.000
+2020-03-16 13:50:01,995 INFO 77235 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36599005ms at 2020-03-17 00:00:01.000
+2020-03-16 13:50:01,938 INFO 77236 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 13:50:01,938 INFO 77236 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 13:50:01,938 INFO 77236 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 15:44:55,891 INFO 78379 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45904111ms at 2020-03-17 04:30:00.002
+2020-03-16 15:44:55,892 INFO 78379 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29704109ms at 2020-03-17 00:00:00.001
+2020-03-16 15:44:55,892 INFO 78379 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29705108ms at 2020-03-17 00:00:01.000
+2020-03-16 15:44:55,836 INFO 78383 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 15:44:55,836 INFO 78383 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 15:44:55,836 INFO 78383 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 15:45:54,201 INFO 78399 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45845800ms at 2020-03-17 04:30:00.001
+2020-03-16 15:45:54,202 INFO 78399 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29645799ms at 2020-03-17 00:00:00.001
+2020-03-16 15:45:54,202 INFO 78399 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29646798ms at 2020-03-17 00:00:01.000
+2020-03-16 15:45:54,147 INFO 78400 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 15:45:54,147 INFO 78400 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 15:45:54,147 INFO 78400 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 16:14:44,089 INFO 79075 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 16:14:44,089 INFO 79075 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 16:14:44,089 INFO 79075 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 16:15:08,016 INFO 79076 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 16:15:08,016 INFO 79076 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 16:15:08,016 INFO 79076 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 16:17:34,724 INFO 79112 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 16:17:34,724 INFO 79112 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 16:17:34,724 INFO 79112 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 16:17:55,242 INFO 79130 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 43924760ms at 2020-03-17 04:30:00.002
+2020-03-16 16:17:55,242 INFO 79130 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27724758ms at 2020-03-17 00:00:00.000
+2020-03-16 16:17:55,243 INFO 79130 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27725758ms at 2020-03-17 00:00:01.001
+2020-03-16 16:17:55,185 INFO 79131 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 16:17:55,185 INFO 79131 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 16:17:55,185 INFO 79131 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-16 16:19:01,157 INFO 79151 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-16 16:19:01,157 INFO 79151 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-16 16:19:01,157 INFO 79151 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-03-17 17:42:06,693 INFO 88069 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38873310ms at 2020-03-18 04:30:00.003
+2020-03-17 17:42:06,693 INFO 88069 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22673307ms at 2020-03-18 00:00:00.000
+2020-03-17 17:42:06,694 INFO 88069 [Timer] /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22674307ms at 2020-03-18 00:00:01.001
+2020-03-17 17:42:06,591 INFO 88073 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-03-17 17:42:06,591 INFO 88073 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-03-17 17:42:06,591 INFO 88073 [egg-schedule]: register schedule /Users/xiangyangling/code/learning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
